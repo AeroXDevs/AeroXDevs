@@ -23,8 +23,6 @@ Building reliable and scalable Discord bots with clean architecture.
 • 🧩 Portfolio: https://itsfiizys.com  
 • 💬 Discord: itsfizys  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1124248109472550993)](https://discord.gg/)
-
 ---
 
 ## Tech Stack
