@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/itsfizys">
   <img 
-    src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=aeg" 
+    src="https://api.daily.dev/devcards/v2/3lCPzf78H62mZZYXu81R9.png?type=wide&r=3ws" 
     width="100%" 
     alt="Aegis's Dev Card"
   />
