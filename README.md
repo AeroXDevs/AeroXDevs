@@ -1,10 +1,4 @@
-<a href="https://app.daily.dev/itsfizys">
-  <img 
-    src="https://api.daily.dev/devcards/v2/3lCPzf78H62mZZYXu81R9.png?type=wide&r=3ws" 
-    width="100%" 
-    alt="Aegis's Dev Card"
-  />
-</a>
+<a href="https://app.daily.dev/itsfizys"><img src="https://api.daily.dev/devcards/v2/3lCPzf78H62mZZYXu81R9.png?type=wide&r=g5k" width="652" alt="Aegis's Dev Card"/></a>
 
 # Hi, I'm Aegis
 
